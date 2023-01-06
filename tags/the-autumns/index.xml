@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the autumns on My Blog</title>
+    <link>http://example.org/tags/the-autumns/</link>
+    <description>Recent content in the autumns on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/the-autumns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the autumnS</title>
+      <link>http://example.org/post/post-3/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/post-3/</guid>
+      <description>The songwriting team at the heart of The Autumns––Matthew Kelly and Frank Koroshec––first met as children. They played on the same little league baseball team, and Kelly studied piano with Koroshec&amp;rsquo;s aunt. The two reconnected in high school on the basis of mutual musical interests, and along with Eric Crissman and Jon Santana, started a band. All four lived in Santa Clarita Valley, the Los Angeles suburb whose claim to fame is the Magic Mountain theme park.</description>
+    </item>
+    
+  </channel>
+</rss>
